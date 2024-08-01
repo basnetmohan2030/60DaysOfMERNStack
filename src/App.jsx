@@ -7,7 +7,7 @@ function App() {
       <div>
           <h1>My Projects</h1>
           <ul>
-              <Link to="food-feedback">Food Feedback</Link>
+              <Link to="food-feedback">Day1-Food Feedback</Link>
               <li>PhoneBook</li>
               <li>CV Application</li>
           </ul>
