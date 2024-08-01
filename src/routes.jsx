@@ -1,5 +1,5 @@
 import App from "./App";
-import FoodFeedback from "./FoodFeedback";
+import FoodFeedback from "./food-feedback/FoodFeedback";
 import Page404 from "./404";
 
 const routes  = [
